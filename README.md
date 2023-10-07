@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gitlucashubtebar
 - 👀 I’m interested in developing and programming new tools for the community
-- 🌱 I’m currently learning how to program mobile applications in android
 - 💞️ I’m looking to collaborate on new web and app development projects
 - 📫 How to reach me: ltebarco@gmail.com
 
